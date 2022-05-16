@@ -1,7 +1,7 @@
-The Crucible Standard
+# The Crucible Standard
 
 
-The Crucible Standard Organization Github
+The Crucible Standard Organization Github Page
 
 
 # APIs
