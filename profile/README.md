@@ -3,6 +3,8 @@
 
 The Crucible Standard Organization Github Page
 
+Crucible Standard is a semi annual print publication which started in 2019. We are dedicated to burning the irrelivencies down to a solid truth. 
+
 
 # APIs
 
