@@ -6,36 +6,29 @@ The Crucible Standard Organization Github Page
 Crucible Standard is a semi annual print publication which started in 2019. We are dedicated to burning the irrelivencies down to a solid truth. 
 
 
-# APIs
+## Open Source APIs
 
-## [obiter-dictum](https://github.com/Crucible-Standard/obiter-dictum)
+<p align="center">
+  <a href="https://github.com/Crucible-Standard/meteorology"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Crucible-Standard&repo=meteorology" alt="Readme Card for meteorology" />
+  </a>
+  <a href="https://github.com/Crucible-Standard/obiter-dictum"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Crucible-Standard&repo=obiter-dictum" alt="Readme Card for obiter-dictum" />
+  </a>
+</p>
 
-[![Issues](https://img.shields.io/github/issues/Crucible-Standard/obiter-dictum.svg)](https://github.com/Crucible-Standard/obiter-dictum/issues)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Crucible-Standard/obiter-dictum/blob/main/LICENSE)
-![Known Vulnerabilities](https://snyk.io/test/github/Crucible-Standard/obiter-dictum/badge.svg)
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/Crucible-Standard/obiter-dictum.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Crucible-Standard/obiter-dictum/alerts/) 
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/Crucible-Standard/obiter-dictum.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Crucible-Standard/obiter-dictum/context:javascript)
+<p align="center">
+  <a href="https://github.com/Crucible-Standard/cryptoget"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Crucible-Standard&repo=cryptoget" alt="Readme Card for cryptoget" />
+  </a>
+  <a href="https://github.com/Crucible-Standard/mtastate"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Crucible-Standard&repo=mtastate" alt="Readme Card for mtastate" />
+  </a>
+</p>
 
-## [meteorology](https://github.com/Crucible-Standard/meteorology)
 
-[![Issues](https://img.shields.io/github/issues/Crucible-Standard/meteorology.svg)](https://github.com/Crucible-Standard/meteorology/issues)
-[![License](https://img.shields.io/badge/license-GPL-blue.svg)](https://github.com/Crucible-Standard/meteorology/blob/main/LICENSE)
-![Known Vulnerabilities](https://snyk.io/test/github/Crucible-Standard/meteorology/badge.svg)
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/Crucible-Standard/meteorology.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Crucible-Standard/meteorology/alerts/)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/Crucible-Standard/meteorology.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Crucible-Standard/meteorology/context:javascript)
 
-## [cryptoget](https://github.com/Crucible-Standard/cryptoget)
+<p align="center">
+  All members and contributors must adhere to the community <a href="https://github.com/Crucible-Standard/.github/blob/main/docs/CODE_OF_CONDUCT.md">Code of Conduct</a>
+</p>
 
-[![Issues](https://img.shields.io/github/issues/Crucible-Standard/cryptoget.svg)](https://github.com/Crucible-Standard/cryptoget/issues)
-[![License](https://img.shields.io/badge/license-GPL-blue.svg)](https://github.com/Crucible-Standard/cryptoget/blob/main/LICENSE)
-![Known Vulnerabilities](https://snyk.io/test/github/Crucible-Standard/cryptoget/badge.svg)
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/Crucible-Standard/cryptoget.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Crucible-Standard/cryptoget/alerts/)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/Crucible-Standard/cryptoget.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Crucible-Standard/cryptoget/context:javascript)
-
-## [mtastate](https://github.com/Crucible-Standard/mtastate)
-
-[![Issues](https://img.shields.io/github/issues/Crucible-Standard/mtastate.svg)](https://github.com/Crucible-Standard/mtastate/issues)
-[![License](https://img.shields.io/badge/license-GPL-blue.svg)](https://github.com/Crucible-Standard/mtastate/blob/main/LICENSE)
-[![Known Vulnerabilities](https://snyk.io/test/github/Crucible-Standard/mtastate/badge.svg)](#)
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/Crucible-Standard/mtastate.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Crucible-Standard/mtastate/alerts/) 
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/Crucible-Standard/mtastate.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Crucible-Standard/mtastate/context:javascript)
