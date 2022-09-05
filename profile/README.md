@@ -3,7 +3,7 @@
 
 The Crucible Standard Organization Github Page
 
-Crucible Standard is a semi annual print publication which started in 2019. Its online publication is driven by a collective of editors, content creators and developers who contribute to the continuation of its goal to provide high quality information about current events, on issues of social, political, economic, cultural and technological importance through articles and invoking intrigue from a solid foundation of verified facts.
+Crucible Standard is a semi annual print publication which started in 2019. Its online publication is driven by a collective of editors, content creators and developers who contribute to the continuation of its goal to provide high quality information about current events, on issues of social, political, economic, cultural and technological importance through articles. May its digital and phyical art and stories invoke intrigue from a solid foundation of verified facts.
 
 
 
